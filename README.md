@@ -1,6 +1,10 @@
 # MyStopWatch
 
-#### Usage Example
+
+Just another stopwatch, but with support to subtasks.
+It is not intended to microbenchmarking, just to mesure tasks that take some time (more then 10 millis).
+
+#### Usage Example:
 ```java
 import msw.formatter.ResultsFormatter;
 import msw.times.MillisCurrentTimeProvider;
